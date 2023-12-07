@@ -22,9 +22,9 @@ let booleanLoggedIn = Boolean(isLoggedIn)
 let value =3
 let negValue = -value
 // console.log(negVaule)
-console.log(2**3);
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");
-console.log(1 + "2" +2);
+// console.log(2**3);
+// console.log("1" + 2);//12
+// console.log(1 + "2");//12
+// console.log("1" + 2 + 2);//122
+// console.log(1 + 2 + "2");//32
+// console.log(1 + "2" +2);//122
