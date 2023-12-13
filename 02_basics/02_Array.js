@@ -6,8 +6,12 @@ marvel_heros.push(dc_heros)
 console.log(marvel_heros);
 console.log(marvel_heros[3][1]);
 
+// for merging two array we caan use concate
 const allHeros = marvel_heros.concat(dc_heros)
 console.log(allHeros);
+
+const merging = dc_heros.concat(marvel_heros)
+console.log(merging);
 
 //spread 
 const all_new_heros = [...marvel_heros, ...dc_heros]
